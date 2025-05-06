@@ -4,29 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-Full-Course-2024-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Hello World">
+      <change afterPath="$PROJECT_DIR$/Exercises/calc_triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/circle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/circunference_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/madlibs_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/rectagle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/arithmetic_and_maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/staments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/type_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/user_imput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mariashiva79"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="efefbbd7-1867-4818-8a7b-3302b2eb4eec" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mariashiva79/Python-Full-Course-2024-.git",
+    "accountId": "efefbbd7-1867-4818-8a7b-3302b2eb4eec"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2wj4joptBc1SIE4P4Qyj1bAtzRC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,10 +63,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.arithmetic_and_maths.executor": "Run",
+    "Python.calc_triangle_area.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.madlibs_game.executor": "Run",
+    "Python.rectagle_area.executor": "Run",
+    "Python.shopping_cart.executor": "Run",
+    "Python.staments.executor": "Run",
+    "Python.type_casting.executor": "Run",
+    "Python.user_imput.executor": "Run",
+    "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -55,17 +94,57 @@
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1746542701127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746542701127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="MAIN">
+        <entry key="Branch">
           <value>
-            <State />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
   </component>
 </project>
