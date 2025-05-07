@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Python weight converter exercise">
-      <change afterPath="$PROJECT_DIR$/Exercises/python_temperature_converter.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Python temperature converter exercise">
+      <change afterPath="$PROJECT_DIR$/Lessons/logical_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.arithmetic_and_maths.executor": "Run",
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
+    "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
@@ -119,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746628386236</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python temperature converter exercise">
+      <option name="closed" value="true" />
+      <created>1746630003901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746630003901</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +174,8 @@
     <MESSAGE value="Create lessons and execises for today 06-05-25" />
     <MESSAGE value="Calculator game" />
     <MESSAGE value="Python weight converter exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python weight converter exercise" />
+    <MESSAGE value="Python temperature converter exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python temperature converter exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +184,11 @@
           <url>file://$PROJECT_DIR$/Exercises/python_temperature_converter.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lessons/logical_operators.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
