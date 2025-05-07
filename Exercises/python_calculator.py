@@ -1,7 +1,5 @@
 # Python calculator
 
-import math
-
 print("Python Calculator!!")
 
 num1 = float(input("Enter first number: "))

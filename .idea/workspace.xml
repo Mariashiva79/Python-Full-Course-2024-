@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Create lessons and execises for today 06-05-25">
-      <change afterPath="$PROJECT_DIR$/Exercises/python_calculator.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Calculator game">
+      <change afterPath="$PROJECT_DIR$/Exercises/python_weight_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/python_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/python_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "Python.circle_area.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
+    "Python.python_weight_converter.executor": "Run",
     "Python.rectagle_area.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
@@ -101,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746551097999</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Calculator game">
+      <option name="closed" value="true" />
+      <created>1746627061559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746627061559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
     <MESSAGE value="Create lessons and execises for today 06-05-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create lessons and execises for today 06-05-25" />
+    <MESSAGE value="Calculator game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator game" />
   </component>
 </project>
