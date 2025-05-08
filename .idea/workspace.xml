@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="conditional_expression.py">
-      <change afterPath="$PROJECT_DIR$/Exercises/validate_user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/string_methods.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="string methods">
+      <change afterPath="$PROJECT_DIR$/Lessons/string_indexing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +65,7 @@
     "Python.rectagle_area.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
+    "Python.string_indexing.executor": "Run",
     "Python.string_methods.executor": "Run",
     "Python.type_casting.executor": "Run",
     "Python.user_imput.executor": "Run",
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746695635310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="string methods">
+      <option name="closed" value="true" />
+      <created>1746707384187</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746707384187</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +196,8 @@
     <MESSAGE value="Python weight converter exercise" />
     <MESSAGE value="Python temperature converter exercise" />
     <MESSAGE value="conditional_expression.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional_expression.py" />
+    <MESSAGE value="string methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="string methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
