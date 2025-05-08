@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Python temperature converter exercise">
-      <change afterPath="$PROJECT_DIR$/Lessons/logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/condicional_expression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.arithmetic_and_maths.executor": "Run",
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
+    "Python.condicional_expression.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
