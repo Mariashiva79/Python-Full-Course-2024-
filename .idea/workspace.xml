@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="string indexing">
-      <change afterPath="$PROJECT_DIR$/Lessons/format_specifiers.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="format specifiers">
+      <change afterPath="$PROJECT_DIR$/Lessons/while_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,7 @@
     "Python.user_imput.executor": "Run",
     "Python.validate_user_input.executor": "Run",
     "Python.variables.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746708086708</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="format specifiers">
+      <option name="closed" value="true" />
+      <created>1746719600818</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746719600818</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +221,8 @@
     <MESSAGE value="conditional_expression.py" />
     <MESSAGE value="string methods" />
     <MESSAGE value="string indexing" />
-    <option name="LAST_COMMIT_MESSAGE" value="string indexing" />
+    <MESSAGE value="format specifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="format specifiers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
