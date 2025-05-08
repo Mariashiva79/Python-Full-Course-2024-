@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Python temperature converter exercise">
-      <change afterPath="$PROJECT_DIR$/Lessons/condicional_expression.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="conditional_expression.py">
+      <change afterPath="$PROJECT_DIR$/Exercises/validate_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/string_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +66,10 @@
     "Python.rectagle_area.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
+    "Python.string_methods.executor": "Run",
     "Python.type_casting.executor": "Run",
     "Python.user_imput.executor": "Run",
+    "Python.validate_user_input.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746630003901</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="conditional_expression.py">
+      <option name="closed" value="true" />
+      <created>1746695635310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746695635310</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +187,8 @@
     <MESSAGE value="Calculator game" />
     <MESSAGE value="Python weight converter exercise" />
     <MESSAGE value="Python temperature converter exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python temperature converter exercise" />
+    <MESSAGE value="conditional_expression.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional_expression.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
