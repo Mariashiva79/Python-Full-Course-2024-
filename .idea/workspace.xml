@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="compound interest calculator">
-      <change afterPath="$PROJECT_DIR$/Lessons/for_loops.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="fix compound interest calculator and create for loops">
+      <change afterPath="$PROJECT_DIR$/Exercises/countdown_timer_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/compound_interest_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/compound_interest_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Python.circle_area.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
     "Python.condicional_expression.executor": "Run",
+    "Python.countdown_timer_program.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
     "Python.logical_operators.executor": "Run",
@@ -190,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746726367304</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix compound interest calculator and create for loops">
+      <option name="closed" value="true" />
+      <created>1746774652722</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746774652722</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +251,8 @@
     <MESSAGE value="format specifiers" />
     <MESSAGE value="while loop" />
     <MESSAGE value="compound interest calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="compound interest calculator" />
+    <MESSAGE value="fix compound interest calculator and create for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix compound interest calculator and create for loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
