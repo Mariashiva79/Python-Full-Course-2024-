@@ -23,5 +23,5 @@ while time <= 0:
     if time <= 0:
         print("The time can´t be a negative number or zero.")
 
-amount = (principal * (1 + rate / 100))**time # en el tutorial lo pone diferente = principal * pow((1 + rate / 100), time)
+amount = principal * pow((1 + rate / 100), time)
 print(f"With principal ${principal:.2f}, a rate of {rate:.2f}% and {time} month of time, the final amount is: ${amount:.2f}")
