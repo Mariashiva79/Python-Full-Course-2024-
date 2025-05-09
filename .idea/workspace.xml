@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="countdown timer program">
-      <change afterPath="$PROJECT_DIR$/Lessons/nested_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lists_sets_and_tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.countdown_timer_program.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
+    "Python.lists_sets_and_tuples.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.nested_loop.executor": "Run",
