@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="List, Set and Tuple">
-      <change afterPath="$PROJECT_DIR$/Exercises/shoping_cart_program.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="2D collections">
+      <change afterPath="$PROJECT_DIR$/Exercises/quiz_geme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2D_collections.executor": "Run",
     "Python.arithmetic_and_maths.executor": "Run",
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
@@ -68,6 +69,7 @@
     "Python.python_calculator.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
     "Python.python_weight_converter.executor": "Run",
+    "Python.quiz_geme.executor": "Run",
     "Python.rectagle_area.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
@@ -217,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746792084917</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="shopping cart program">
+      <option name="closed" value="true" />
+      <created>1747060100949</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747060100949</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2D collections">
+      <option name="closed" value="true" />
+      <created>1747060126750</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747060126750</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +291,9 @@
     <MESSAGE value="fix compound interest calculator and create for loops" />
     <MESSAGE value="countdown timer program" />
     <MESSAGE value="List, Set and Tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="List, Set and Tuple" />
+    <MESSAGE value="shopping cart program" />
+    <MESSAGE value="2D collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
