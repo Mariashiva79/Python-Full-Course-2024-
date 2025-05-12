@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="countdown timer program">
-      <change afterPath="$PROJECT_DIR$/Lessons/lists_sets_and_tuples.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="List, Set and Tuple">
+      <change afterPath="$PROJECT_DIR$/Exercises/shoping_cart_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Python.python_temperature_converter.executor": "Run",
     "Python.python_weight_converter.executor": "Run",
     "Python.rectagle_area.executor": "Run",
+    "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
     "Python.string_indexing.executor": "Run",
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746775801139</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="List, Set and Tuple">
+      <option name="closed" value="true" />
+      <created>1746792084917</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746792084917</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +272,8 @@
     <MESSAGE value="compound interest calculator" />
     <MESSAGE value="fix compound interest calculator and create for loops" />
     <MESSAGE value="countdown timer program" />
-    <option name="LAST_COMMIT_MESSAGE" value="countdown timer program" />
+    <MESSAGE value="List, Set and Tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="List, Set and Tuple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
