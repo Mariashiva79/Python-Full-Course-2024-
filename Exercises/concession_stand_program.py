@@ -21,15 +21,19 @@ while True:
     food = input(f"Choose your food (q to quit): ").lower()
     if food == "q":
             break
-    elif menu.get(food) is not None:
-            cart.append(food)
+    elif food in menu.keys():
+        cart.append(food)
+#    elif menu.get(food) is not None:
+#            cart.append(food)
+    else:
+        print(f"{food} is not in the menu")
 for food in cart:
         total += menu.get(food)
 
 print("\n****** TICKET *******")
 
-for i in cart:
-        print(f"{i:10}: ${menu.get(i):.2f}")
+for item in cart:
+    print(f"{item:10}: ${menu.get(item):.2f}")
 print("------------------")
 print(f"{"TOTAL":10}: ${total:.2f}")
 
