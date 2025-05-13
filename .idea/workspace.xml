@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="update random numbers">
-      <change afterPath="$PROJECT_DIR$/Exercises/phython_number_guessing_game.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="python number guessing game">
+      <change afterPath="$PROJECT_DIR$/Exercises/rock_paper_scissors_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Python.quiz_geme.executor": "Run",
     "Python.random_numbers.executor": "Run",
     "Python.rectagle_area.executor": "Run",
+    "Python.rock_paper_scissors_game.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
@@ -89,7 +90,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -288,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747135400483</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="python number guessing game">
+      <option name="closed" value="true" />
+      <created>1747137688583</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747137688583</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +361,8 @@
     <MESSAGE value="concession stand program" />
     <MESSAGE value="random numbers" />
     <MESSAGE value="update random numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="update random numbers" />
+    <MESSAGE value="python number guessing game" />
+    <option name="LAST_COMMIT_MESSAGE" value="python number guessing game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
