@@ -1,5 +1,6 @@
 # Juego de preguntas y respuestas
 
+
 questions = (
     "1. What is the longest river in the world?",
     "2. Who painted the Sistine Chapel?",
@@ -21,40 +22,33 @@ guesses = []
 score = 0
 question_number = 0
 
+
 for question in questions:
-    print("-----------------------------------------")
+    print("-----------------------------")
     print(question)
     for option in options[question_number]:
-        print(option)
-
-    guess = input("Choose your answer (A, B, C, or D): ").upper()
-    guesses.append(guess)
-
-    if guess == answers[question_number]:
+        print(option, end=" ")
+    guesses.append(input("\nChoose your answer (A, B, C or D): ").upper())
+    if guesses[question_number] == answers[question_number]:
+        print("Correct!!")
         score += 1
-        print("Correct!")
     else:
-        print("Incorrect!")
-        print(f"The correct answer was {answers[question_number]}")
+        print(f"Incorrect! the correct answer is {answers[question_number]}")
     question_number += 1
 
-print("--------------------")
-print("        RESULT      ")
-print("--------------------")
+print("................")
+print("     RESULT     ")
+print("................")
 
-print("answers:", end=" ")
+print("Correct answers: ", end=" ")
 for answer in answers:
     print(answer, end=" ")
-print()
-
-print("guesses:", end=" ")
+print("\nYour answers:    ", end=" ")
 for guess in guesses:
     print(guess, end=" ")
-print()
 
 score = int(score / len(questions) * 100)
-print(f"The score is {score}%")
-
+print(f"\nYour total score is {score}%")
 
 
 
