@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="random numbers">
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="update random numbers">
+      <change afterPath="$PROJECT_DIR$/Exercises/phython_number_guessing_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/concession_stand_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/concession_stand_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.nested_loop.executor": "Run",
+    "Python.phython_number_guessing_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
     "Python.python_weight_converter.executor": "Run",
@@ -279,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747134090283</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update random numbers">
+      <option name="closed" value="true" />
+      <created>1747135400483</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747135400483</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +351,8 @@
     <MESSAGE value="dictionary" />
     <MESSAGE value="concession stand program" />
     <MESSAGE value="random numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="random numbers" />
+    <MESSAGE value="update random numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="update random numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
