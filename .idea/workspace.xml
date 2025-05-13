@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="dictionary">
-      <change afterPath="$PROJECT_DIR$/Exercises/concession_stand_program.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="concession stand program">
+      <change afterPath="$PROJECT_DIR$/Lessons/random_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Python.python_weight_converter.executor": "Run",
     "Python.quiz_game_2.executor": "Run",
     "Python.quiz_geme.executor": "Run",
+    "Python.random_numbers.executor": "Run",
     "Python.rectagle_area.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
@@ -262,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747125357690</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="concession stand program">
+      <option name="closed" value="true" />
+      <created>1747132733677</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747132733677</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +332,8 @@
     <MESSAGE value="quiz game" />
     <MESSAGE value="fix quiz game" />
     <MESSAGE value="dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionary" />
+    <MESSAGE value="concession stand program" />
+    <option name="LAST_COMMIT_MESSAGE" value="concession stand program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
