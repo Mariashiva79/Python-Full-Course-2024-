@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="fix quiz game">
-      <change afterPath="$PROJECT_DIR$/Lessons/dictionary.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="dictionary">
+      <change afterPath="$PROJECT_DIR$/Exercises/concession_stand_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
+    "Python.concession_stand_program.executor": "Run",
     "Python.condicional_expression.executor": "Run",
     "Python.countdown_timer_program.executor": "Run",
     "Python.dictionary.executor": "Run",
@@ -253,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747122947285</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="dictionary">
+      <option name="closed" value="true" />
+      <created>1747125357690</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747125357690</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +322,8 @@
     <MESSAGE value="2D collections" />
     <MESSAGE value="quiz game" />
     <MESSAGE value="fix quiz game" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix quiz game" />
+    <MESSAGE value="dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
