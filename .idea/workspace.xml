@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="dice roller program">
-      <change afterPath="$PROJECT_DIR$/Lessons/functions.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Functions">
+      <change afterPath="$PROJECT_DIR$/Lessons/default_arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.concession_stand_program.executor": "Run",
     "Python.condicional_expression.executor": "Run",
     "Python.countdown_timer_program.executor": "Run",
+    "Python.default_arguments.executor": "Run",
     "Python.dice_roller_2.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
@@ -316,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747222913102</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Functions">
+      <option name="closed" value="true" />
+      <created>1747234168139</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1747234168139</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +367,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hello World" />
     <MESSAGE value="Create lessons and execises for today 06-05-25" />
     <MESSAGE value="Calculator game" />
     <MESSAGE value="Python weight converter exercise" />
@@ -383,7 +391,8 @@
     <MESSAGE value="python number guessing game" />
     <MESSAGE value="rock, paper or scissors game" />
     <MESSAGE value="dice roller program" />
-    <option name="LAST_COMMIT_MESSAGE" value="dice roller program" />
+    <MESSAGE value="Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
