@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="default arguments">
-      <change afterPath="$PROJECT_DIR$/Lessons/keyword_argument.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="keywords arguments">
+      <change afterPath="$PROJECT_DIR$/Lessons/args_and_kwargs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.2D_collections.executor": "Run",
+    "Python.args_and_kwargs.executor": "Run",
     "Python.arithmetic_and_maths.executor": "Run",
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
@@ -334,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747236780941</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="keywords arguments">
+      <option name="closed" value="true" />
+      <created>1747292422960</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1747292422961</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculator game" />
     <MESSAGE value="Python weight converter exercise" />
     <MESSAGE value="Python temperature converter exercise" />
     <MESSAGE value="conditional_expression.py" />
@@ -401,7 +409,8 @@
     <MESSAGE value="dice roller program" />
     <MESSAGE value="Functions" />
     <MESSAGE value="default arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="default arguments" />
+    <MESSAGE value="keywords arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="keywords arguments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
