@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="iterables">
-      <change afterPath="$PROJECT_DIR$/Lessons/membership_operators.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="membership operators">
+      <change afterPath="$PROJECT_DIR$/Lessons/list_comprehension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Python.functions.executor": "Run",
     "Python.iterables.executor": "Run",
     "Python.keyword_argument.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
     "Python.lists_sets_and_tuples.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
@@ -361,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747297120829</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="membership operators">
+      <option name="closed" value="true" />
+      <created>1747301866180</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1747301866180</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="conditional_expression.py" />
     <MESSAGE value="string methods" />
     <MESSAGE value="string indexing" />
     <MESSAGE value="format specifiers" />
@@ -428,7 +436,8 @@
     <MESSAGE value="keywords arguments" />
     <MESSAGE value="*args and **kwargs" />
     <MESSAGE value="iterables" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterables" />
+    <MESSAGE value="membership operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="membership operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
