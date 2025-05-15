@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="*args and **kwargs">
-      <change afterPath="$PROJECT_DIR$/Lessons/iterables.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="iterables">
+      <change afterPath="$PROJECT_DIR$/Lessons/membership_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,7 @@
     "Python.lists_sets_and_tuples.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
+    "Python.membership_operators.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
@@ -352,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747296078765</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="iterables">
+      <option name="closed" value="true" />
+      <created>1747297120829</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747297120829</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python temperature converter exercise" />
     <MESSAGE value="conditional_expression.py" />
     <MESSAGE value="string methods" />
     <MESSAGE value="string indexing" />
@@ -419,7 +427,8 @@
     <MESSAGE value="default arguments" />
     <MESSAGE value="keywords arguments" />
     <MESSAGE value="*args and **kwargs" />
-    <option name="LAST_COMMIT_MESSAGE" value="*args and **kwargs" />
+    <MESSAGE value="iterables" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
