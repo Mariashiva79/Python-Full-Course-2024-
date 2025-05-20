@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="list comprehension">
-      <change afterPath="$PROJECT_DIR$/Lessons/match_case_statements.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Modules">
+      <change afterPath="$PROJECT_DIR$/Lessons/scope_variable_LEGB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Python.madlibs_game.executor": "Run",
     "Python.match_case_statements.executor": "Run",
     "Python.membership_operators.executor": "Run",
+    "Python.modules.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
@@ -87,6 +88,7 @@
     "Python.random_numbers.executor": "Run",
     "Python.rectagle_area.executor": "Run",
     "Python.rock_paper_scissors_game.executor": "Run",
+    "Python.scope_variable_LEGB.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
@@ -379,7 +381,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747320087938</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="(Switch) Match-case statements">
+      <option name="closed" value="true" />
+      <created>1747396027219</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1747396027219</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Modules">
+      <option name="closed" value="true" />
+      <created>1747728152151</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1747728152151</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,8 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string indexing" />
-    <MESSAGE value="format specifiers" />
     <MESSAGE value="while loop" />
     <MESSAGE value="compound interest calculator" />
     <MESSAGE value="fix compound interest calculator and create for loops" />
@@ -446,7 +462,9 @@
     <MESSAGE value="iterables" />
     <MESSAGE value="membership operators" />
     <MESSAGE value="list comprehension" />
-    <option name="LAST_COMMIT_MESSAGE" value="list comprehension" />
+    <MESSAGE value="(Switch) Match-case statements" />
+    <MESSAGE value="Modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
