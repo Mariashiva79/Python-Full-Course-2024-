@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Modules">
-      <change afterPath="$PROJECT_DIR$/Lessons/scope_variable_LEGB.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Scope resolution">
+      <change afterPath="$PROJECT_DIR$/Exercises/banking_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/if_name==main/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/if_name==main/script2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
     "Python.2D_collections.executor": "Run",
     "Python.args_and_kwargs.executor": "Run",
     "Python.arithmetic_and_maths.executor": "Run",
+    "Python.banking_program.executor": "Run",
     "Python.calc_triangle_area.executor": "Run",
     "Python.circle_area.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
@@ -81,6 +84,7 @@
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
+    "Python.python_number_guessing_game.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
     "Python.python_weight_converter.executor": "Run",
     "Python.quiz_game_2.executor": "Run",
@@ -89,6 +93,8 @@
     "Python.rectagle_area.executor": "Run",
     "Python.rock_paper_scissors_game.executor": "Run",
     "Python.scope_variable_LEGB.executor": "Run",
+    "Python.script1.executor": "Run",
+    "Python.script2.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
     "Python.staments.executor": "Run",
@@ -102,11 +108,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/mjimenez/Proyectos/Python-Full-Course-2024-/Lessons/if_name==main/script2.py",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons/if_name==main" />
       <recent name="$PROJECT_DIR$/Lessons" />
     </key>
   </component>
@@ -397,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747728152151</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Scope resolution">
+      <option name="closed" value="true" />
+      <created>1747729695823</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1747729695823</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="while loop" />
     <MESSAGE value="compound interest calculator" />
     <MESSAGE value="fix compound interest calculator and create for loops" />
     <MESSAGE value="countdown timer program" />
@@ -464,7 +479,8 @@
     <MESSAGE value="list comprehension" />
     <MESSAGE value="(Switch) Match-case statements" />
     <MESSAGE value="Modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modules" />
+    <MESSAGE value="Scope resolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scope resolution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
