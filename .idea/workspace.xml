@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Scope resolution">
-      <change afterPath="$PROJECT_DIR$/Exercises/banking_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/if_name==main/script1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/if_name==main/script2.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="banking program">
+      <change afterPath="$PROJECT_DIR$/Exercises/slot_machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +95,7 @@
     "Python.script2.executor": "Run",
     "Python.shoping_cart_program.executor": "Run",
     "Python.shopping_cart.executor": "Run",
+    "Python.slot_machine.executor": "Run",
     "Python.staments.executor": "Run",
     "Python.string_indexing.executor": "Run",
     "Python.string_methods.executor": "Run",
@@ -413,7 +412,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747729695823</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="if_name==main">
+      <option name="closed" value="true" />
+      <created>1748254528833</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1748254528833</updated>
+    </task>
+    <task id="LOCAL-00037" summary="banking program">
+      <option name="closed" value="true" />
+      <created>1748254544426</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1748254544426</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,8 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="compound interest calculator" />
-    <MESSAGE value="fix compound interest calculator and create for loops" />
     <MESSAGE value="countdown timer program" />
     <MESSAGE value="List, Set and Tuple" />
     <MESSAGE value="shopping cart program" />
@@ -480,7 +493,9 @@
     <MESSAGE value="(Switch) Match-case statements" />
     <MESSAGE value="Modules" />
     <MESSAGE value="Scope resolution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scope resolution" />
+    <MESSAGE value="if_name==main" />
+    <MESSAGE value="banking program" />
+    <option name="LAST_COMMIT_MESSAGE" value="banking program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
