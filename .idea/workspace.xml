@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="encryption program">
-      <change afterPath="$PROJECT_DIR$/Exercises/hangman_game.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="hangman game">
+      <change afterPath="$PROJECT_DIR$/Lessons/object_class/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/object_class/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +68,7 @@
     "Python.dice_roller_2.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.dog.executor": "Run",
     "Python.encryption_program.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
@@ -78,6 +80,7 @@
     "Python.lists_sets_and_tuples.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.madlibs_game.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.match_case_statements.executor": "Run",
     "Python.membership_operators.executor": "Run",
     "Python.modules.executor": "Run",
@@ -115,6 +118,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons/object_class" />
       <recent name="$PROJECT_DIR$/Lessons/if_name==main" />
       <recent name="$PROJECT_DIR$/Lessons" />
     </key>
@@ -446,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748332113828</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="hangman game">
+      <option name="closed" value="true" />
+      <created>1748344230662</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1748344230662</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="shopping cart program" />
     <MESSAGE value="2D collections" />
     <MESSAGE value="quiz game" />
     <MESSAGE value="fix quiz game" />
@@ -513,7 +524,8 @@
     <MESSAGE value="banking program" />
     <MESSAGE value="slot machine" />
     <MESSAGE value="encryption program" />
-    <option name="LAST_COMMIT_MESSAGE" value="encryption program" />
+    <MESSAGE value="hangman game" />
+    <option name="LAST_COMMIT_MESSAGE" value="hangman game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -527,6 +539,11 @@
           <url>file://$PROJECT_DIR$/Lessons/logical_operators.py</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lessons/object_class/dog.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
