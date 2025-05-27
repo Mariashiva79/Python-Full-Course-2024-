@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="banking program">
-      <change afterPath="$PROJECT_DIR$/Exercises/slot_machine.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="slot machine">
+      <change afterPath="$PROJECT_DIR$/Exercises/encryption_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
     "Python.dice_roller_2.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.encryption_program.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
     "Python.functions.executor": "Run",
@@ -428,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748254544426</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="slot machine">
+      <option name="closed" value="true" />
+      <created>1748261708402</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1748261708402</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="countdown timer program" />
     <MESSAGE value="List, Set and Tuple" />
     <MESSAGE value="shopping cart program" />
     <MESSAGE value="2D collections" />
@@ -495,7 +503,8 @@
     <MESSAGE value="Scope resolution" />
     <MESSAGE value="if_name==main" />
     <MESSAGE value="banking program" />
-    <option name="LAST_COMMIT_MESSAGE" value="banking program" />
+    <MESSAGE value="slot machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="slot machine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
