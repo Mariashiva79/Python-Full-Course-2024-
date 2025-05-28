@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="inheritance clases Child(Parent)">
-      <change afterPath="$PROJECT_DIR$/Lessons/multiple_inheritance.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="multiple inheritance clases">
+      <change afterPath="$PROJECT_DIR$/Lessons/super().py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,7 @@
     "Python.match_case_statements.executor": "Run",
     "Python.membership_operators.executor": "Run",
     "Python.modules.executor": "Run",
+    "Python.multiple_inheritance.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.python_calculator.executor": "Run",
@@ -105,6 +106,7 @@
     "Python.staments.executor": "Run",
     "Python.string_indexing.executor": "Run",
     "Python.string_methods.executor": "Run",
+    "Python.super().executor": "Run",
     "Python.type_casting.executor": "Run",
     "Python.user_imput.executor": "Run",
     "Python.validate_user_input.executor": "Run",
@@ -483,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748423031253</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="multiple inheritance clases">
+      <option name="closed" value="true" />
+      <created>1748424922687</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1748424922687</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dictionary" />
     <MESSAGE value="concession stand program" />
     <MESSAGE value="random numbers" />
     <MESSAGE value="update random numbers" />
@@ -550,7 +559,8 @@
     <MESSAGE value="Objects Class" />
     <MESSAGE value="class variables" />
     <MESSAGE value="inheritance clases Child(Parent)" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance clases Child(Parent)" />
+    <MESSAGE value="multiple inheritance clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiple inheritance clases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
