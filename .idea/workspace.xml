@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="multiple inheritance clases">
-      <change afterPath="$PROJECT_DIR$/Lessons/super().py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="super() class">
+      <change afterPath="$PROJECT_DIR$/Lessons/polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,7 @@
     "Python.multiple_inheritance.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
+    "Python.poymorphism.executor": "Run",
     "Python.python_calculator.executor": "Run",
     "Python.python_number_guessing_game.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
@@ -493,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748424922687</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="super() class">
+      <option name="closed" value="true" />
+      <created>1748430405596</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1748430405596</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="concession stand program" />
     <MESSAGE value="random numbers" />
     <MESSAGE value="update random numbers" />
     <MESSAGE value="python number guessing game" />
@@ -560,7 +568,8 @@
     <MESSAGE value="class variables" />
     <MESSAGE value="inheritance clases Child(Parent)" />
     <MESSAGE value="multiple inheritance clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiple inheritance clases" />
+    <MESSAGE value="super() class" />
+    <option name="LAST_COMMIT_MESSAGE" value="super() class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
