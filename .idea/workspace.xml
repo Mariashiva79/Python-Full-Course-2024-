@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/Lessons/duck_typing.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Duck typing">
+      <change afterPath="$PROJECT_DIR$/Lessons/static_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/hangman_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordslist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/wordslist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +106,7 @@
     "Python.shopping_cart.executor": "Run",
     "Python.slot_machine.executor": "Run",
     "Python.staments.executor": "Run",
+    "Python.static_methods.executor": "Run",
     "Python.string_indexing.executor": "Run",
     "Python.string_methods.executor": "Run",
     "Python.super().executor": "Run",
@@ -514,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748433973602</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Duck typing">
+      <option name="closed" value="true" />
+      <created>1748502686772</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1748502686772</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update random numbers" />
     <MESSAGE value="python number guessing game" />
     <MESSAGE value="rock, paper or scissors game" />
     <MESSAGE value="dice roller program" />
@@ -581,7 +587,8 @@
     <MESSAGE value="multiple inheritance clases" />
     <MESSAGE value="super() class" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Duck typing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duck typing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
