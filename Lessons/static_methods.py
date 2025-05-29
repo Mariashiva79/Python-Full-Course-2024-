@@ -1,4 +1,4 @@
-# Static methods
+# Static methods estos metodos no necesitan tener acceso a los datos de la clase
 
 class Employee:
     def __init__(self, name, position):
