@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="super() class">
-      <change afterPath="$PROJECT_DIR$/Lessons/polymorphism.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Polymorphism">
+      <change afterPath="$PROJECT_DIR$/Lessons/duck_typing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/hangman_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordslist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/wordslist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.dog.executor": "Run",
+    "Python.duck_typing.executor": "Run",
     "Python.encryption_program.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
@@ -122,9 +125,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercises" />
+      <recent name="$PROJECT_DIR$/Lessons" />
       <recent name="$PROJECT_DIR$/Lessons/object_class" />
       <recent name="$PROJECT_DIR$/Lessons/if_name==main" />
-      <recent name="$PROJECT_DIR$/Lessons" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -502,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748430405596</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Polymorphism">
+      <option name="closed" value="true" />
+      <created>1748433973602</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1748433973602</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="random numbers" />
     <MESSAGE value="update random numbers" />
     <MESSAGE value="python number guessing game" />
     <MESSAGE value="rock, paper or scissors game" />
@@ -569,7 +580,8 @@
     <MESSAGE value="inheritance clases Child(Parent)" />
     <MESSAGE value="multiple inheritance clases" />
     <MESSAGE value="super() class" />
-    <option name="LAST_COMMIT_MESSAGE" value="super() class" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

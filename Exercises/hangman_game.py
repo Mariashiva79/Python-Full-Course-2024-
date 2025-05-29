@@ -1,6 +1,6 @@
 # juego del ahorcado
 
-from wordslist import words
+from Exercises.wordslist import words
 import random
 
 # creando el diccionario del ahorcado
