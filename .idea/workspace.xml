@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Class methods">
-      <change afterPath="$PROJECT_DIR$/Lessons/magic_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/property_decorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,7 @@
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.poymorphism.executor": "Run",
+    "Python.property_decorators.executor": "Run",
     "Python.python_calculator.executor": "Run",
     "Python.python_number_guessing_game.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
@@ -124,6 +125,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercises" />
@@ -135,7 +139,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -146,14 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Hello World">
-      <option name="closed" value="true" />
-      <created>1746542701127</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1746542701127</updated>
     </task>
     <task id="LOCAL-00002" summary="Create lessons and execises for today 06-05-25">
       <option name="closed" value="true" />
@@ -539,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748505835436</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Class methods">
+      <option name="closed" value="true" />
+      <created>1748508761143</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1748508761143</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
