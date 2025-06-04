@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Property decorators">
-      <change afterPath="$PROJECT_DIR$/Lessons/decorators.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Decorators">
+      <change afterPath="$PROJECT_DIR$/Lessons/exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Python.dog.executor": "Run",
     "Python.duck_typing.executor": "Run",
     "Python.encryption_program.executor": "Run",
+    "Python.exception.executor": "Run",
     "Python.for_loops.executor": "Run",
     "Python.format_specifiers.executor": "Run",
     "Python.functions.executor": "Run",
@@ -151,14 +152,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Calculator game">
-      <option name="closed" value="true" />
-      <created>1746627061559</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1746627061559</updated>
     </task>
     <task id="LOCAL-00004" summary="Python weight converter exercise">
       <option name="closed" value="true" />
@@ -544,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748962710800</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Decorators">
+      <option name="closed" value="true" />
+      <created>1749020049786</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1749020049786</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Functions" />
     <MESSAGE value="default arguments" />
     <MESSAGE value="keywords arguments" />
     <MESSAGE value="*args and **kwargs" />
@@ -611,7 +611,8 @@
     <MESSAGE value="Static methods" />
     <MESSAGE value="Class methods" />
     <MESSAGE value="Property decorators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Property decorators" />
+    <MESSAGE value="Decorators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
