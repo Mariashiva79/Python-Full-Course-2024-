@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Dates &amp; time">
-      <change afterPath="$PROJECT_DIR$/Exercises/alarm_clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/chiptune-alarm-clock.mp3" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Alarm clock">
+      <change afterPath="$PROJECT_DIR$/Exercises/multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/request_API_Data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +96,7 @@
     "Python.membership_operators.executor": "Run",
     "Python.modules.executor": "Run",
     "Python.multiple_inheritance.executor": "Run",
+    "Python.multithreading.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.phython_number_guessing_game.executor": "Run",
     "Python.poymorphism.executor": "Run",
@@ -109,6 +110,7 @@
     "Python.random_numbers.executor": "Run",
     "Python.reading_files.executor": "Run",
     "Python.rectagle_area.executor": "Run",
+    "Python.request_API_Data.executor": "Run",
     "Python.rock_paper_scissors_game.executor": "Run",
     "Python.scope_variable_LEGB.executor": "Run",
     "Python.script1.executor": "Run",
@@ -191,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00008" summary="string indexing">
-      <option name="closed" value="true" />
-      <created>1746708086708</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1746708086708</updated>
     </task>
     <task id="LOCAL-00009" summary="format specifiers">
       <option name="closed" value="true" />
@@ -584,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750663780690</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Alarm clock">
+      <option name="closed" value="true" />
+      <created>1750669682733</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1750669682733</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -626,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membership operators" />
     <MESSAGE value="list comprehension" />
     <MESSAGE value="(Switch) Match-case statements" />
     <MESSAGE value="Modules" />
@@ -651,7 +652,8 @@
     <MESSAGE value="File detection and Writing files" />
     <MESSAGE value="Writing and reading files" />
     <MESSAGE value="Dates &amp; time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dates &amp; time" />
+    <MESSAGE value="Alarm clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alarm clock" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
