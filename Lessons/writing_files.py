@@ -3,7 +3,7 @@ import json
 import csv
 from os import write
 
-# employees=["Patrick", "Eugene", "Carla", "Rosa"]
+employees=["Patrick", "Eugene", "Carla", "Rosa"]
 # employee= {
 #    "name": "Patrick",
 #    "age": 39,
@@ -17,28 +17,27 @@ employee =[["Name", "Age", "Job"],
 
 txt_data = "I can write files with Python"
 
-file_path = "output.csv" # se puede poner así y se incluye en el proyecto
+file_path = "input.txt"  # se puede poner así y se incluye en el proyecto
 # o indicarle la ruta
 # file_path = "/home/mjimenez/output.txt"
 
-# try:
-#    with open(file=file_path, mode="a") as file:  # la w es de write, si pones x, r, a, no es para escribir.
-#        for employee in employees:
-#            file.write(f"\n" + employee)
-#        print(f"The file '{file_path}' was created")
-# except FileExistsError:
-#    print("The file already exist")
+try:
+    with open(file=file_path, mode="w") as file:  # la w es de write, si pones x, r, a, no es para escribir.
+        file.write(txt_data)
+        print(f"The file '{file_path}' was created")
+except FileExistsError:
+    print("The file already exist")
 
 # with open(file_path, mode="w") as file:
 #    json.dump(employee, file, indent=4) # esto es para ver el json mejor, le pone espacios
 #    print(f"The file '{file_path}' was created")
 
-try:
-    with open(file=file_path, mode="w") as file:
-        write = csv.writer(file)
-        for row in employee:
-            write.writerow(row)
-        print(f"The csv file '{file_path}' was created")
-except FileExistsError:
-    print("The file already exist")
+# try:
+#   with open(file=file_path, mode="w") as file:
+#       write = csv.writer(file)
+#       for row in employee:
+#           write.writerow(row)
+#       print(f"The csv file '{file_path}' was created")
+# except FileExistsError:
+#   print("The file already exist")
 

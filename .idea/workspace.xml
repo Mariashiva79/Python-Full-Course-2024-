@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Exceptions">
-      <change afterPath="$PROJECT_DIR$/Lessons/file_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/writing_files.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="File detection and Writing files">
+      <change afterPath="$PROJECT_DIR$/Lessons/reading_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/writing_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/writing_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,7 @@
     &quot;Python.quiz_game_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz_geme.executor&quot;: &quot;Run&quot;,
     &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading_files.executor&quot;: &quot;Run&quot;,
     &quot;Python.rectagle_area.executor&quot;: &quot;Run&quot;,
     &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.scope_variable_LEGB.executor&quot;: &quot;Run&quot;,
@@ -127,7 +128,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/mjimenez/Proyectos/Python-Full-Course-2024-/Lessons/if_name==main/script2.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="Push.Settings">
@@ -184,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Python temperature converter exercise">
-      <option name="closed" value="true" />
-      <created>1746630003901</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1746630003901</updated>
     </task>
     <task id="LOCAL-00006" summary="conditional_expression.py">
       <option name="closed" value="true" />
@@ -577,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749025433850</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="File detection and Writing files">
+      <option name="closed" value="true" />
+      <created>1750335324108</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1750335324108</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -619,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="keywords arguments" />
     <MESSAGE value="*args and **kwargs" />
     <MESSAGE value="iterables" />
     <MESSAGE value="membership operators" />
@@ -644,7 +644,8 @@
     <MESSAGE value="Property decorators" />
     <MESSAGE value="Decorators" />
     <MESSAGE value="Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
+    <MESSAGE value="File detection and Writing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="File detection and Writing files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
