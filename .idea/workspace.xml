@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="Request API Data">
-      <change afterPath="$PROJECT_DIR$/Lessons/PyQt/PyQt5_introduction.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="PyQt5 introduction">
+      <change afterPath="$PROJECT_DIR$/Exercises/DS-DIGII.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/pyqt5_digital_clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,92 +51,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.2D_collections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyQt5_introduction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.alarm_clock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.args_and_kwargs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arithmetic_and_maths.executor&quot;: &quot;Run&quot;,
-    &quot;Python.banking_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calc_triangle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.compound_interest_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.concession_stand_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.condicional_expression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.countdown_timer_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dates_&amp;_time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.default_arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_roller_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_roller_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.duck_typing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encryption_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.format_specifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.keyword_argument.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists_sets_and_tuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logical_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.madlibs_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.magic_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_case_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.membership_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multithreading.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.phython_number_guessing_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.poymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Python.property_decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_number_guessing_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_temperature_converter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_weight_converter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_game_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_geme.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reading_files.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rectagle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.request_API_Data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scope_variable_LEGB.executor&quot;: &quot;Run&quot;,
-    &quot;Python.script1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.script2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shoping_cart_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shopping_cart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slot_machine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.staments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.static_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_indexing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.super().executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_casting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_imput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validate_user_input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.writing_files.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mjimenez/Proyectos/Python-Full-Course-2024-/Exercises&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2D_collections.executor": "Run",
+    "Python.PyQt5_introduction.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.alarm_clock.executor": "Run",
+    "Python.args_and_kwargs.executor": "Run",
+    "Python.arithmetic_and_maths.executor": "Run",
+    "Python.banking_program.executor": "Run",
+    "Python.calc_triangle_area.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.class_methods.executor": "Run",
+    "Python.class_variables.executor": "Run",
+    "Python.compound_interest_calculator.executor": "Run",
+    "Python.concession_stand_program.executor": "Run",
+    "Python.condicional_expression.executor": "Run",
+    "Python.countdown_timer_program.executor": "Run",
+    "Python.dates_&_time.executor": "Run",
+    "Python.decorators.executor": "Run",
+    "Python.default_arguments.executor": "Run",
+    "Python.dice_roller_2.executor": "Run",
+    "Python.dice_roller_program.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.dog.executor": "Run",
+    "Python.duck_typing.executor": "Run",
+    "Python.encryption_program.executor": "Run",
+    "Python.exception.executor": "Run",
+    "Python.file_detection.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.format_specifiers.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.hangman_game.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.iterables.executor": "Run",
+    "Python.keyword_argument.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.lists_sets_and_tuples.executor": "Run",
+    "Python.logical_operators.executor": "Run",
+    "Python.madlibs_game.executor": "Run",
+    "Python.magic_methods.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.match_case_statements.executor": "Run",
+    "Python.membership_operators.executor": "Run",
+    "Python.modules.executor": "Run",
+    "Python.multiple_inheritance.executor": "Run",
+    "Python.multithreading.executor": "Run",
+    "Python.nested_loop.executor": "Run",
+    "Python.phython_number_guessing_game.executor": "Run",
+    "Python.poymorphism.executor": "Run",
+    "Python.property_decorators.executor": "Run",
+    "Python.pyqt5_digital_clock.executor": "Run",
+    "Python.python_calculator.executor": "Run",
+    "Python.python_number_guessing_game.executor": "Run",
+    "Python.python_temperature_converter.executor": "Run",
+    "Python.python_weight_converter.executor": "Run",
+    "Python.quiz_game_2.executor": "Run",
+    "Python.quiz_geme.executor": "Run",
+    "Python.random_numbers.executor": "Run",
+    "Python.reading_files.executor": "Run",
+    "Python.rectagle_area.executor": "Run",
+    "Python.request_API_Data.executor": "Run",
+    "Python.rock_paper_scissors_game.executor": "Run",
+    "Python.scope_variable_LEGB.executor": "Run",
+    "Python.script1.executor": "Run",
+    "Python.script2.executor": "Run",
+    "Python.shoping_cart_program.executor": "Run",
+    "Python.shopping_cart.executor": "Run",
+    "Python.slot_machine.executor": "Run",
+    "Python.staments.executor": "Run",
+    "Python.static_methods.executor": "Run",
+    "Python.string_indexing.executor": "Run",
+    "Python.string_methods.executor": "Run",
+    "Python.super().executor": "Run",
+    "Python.type_casting.executor": "Run",
+    "Python.user_imput.executor": "Run",
+    "Python.validate_user_input.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.while_loop.executor": "Run",
+    "Python.writing_files.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/mjimenez/Proyectos/Python-Full-Course-2024-/Exercises",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
@@ -194,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00010" summary="while loop">
-      <option name="closed" value="true" />
-      <created>1746723380038</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1746723380038</updated>
     </task>
     <task id="LOCAL-00011" summary="compound interest calculator">
       <option name="closed" value="true" />
@@ -587,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750675174022</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="PyQt5 introduction">
+      <option name="closed" value="true" />
+      <created>1750762755991</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1750762755991</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -629,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="(Switch) Match-case statements" />
     <MESSAGE value="Modules" />
     <MESSAGE value="Scope resolution" />
     <MESSAGE value="if_name==main" />
@@ -654,7 +655,8 @@
     <MESSAGE value="Dates &amp; time" />
     <MESSAGE value="Alarm clock" />
     <MESSAGE value="Request API Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Request API Data" />
+    <MESSAGE value="PyQt5 introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyQt5 introduction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
