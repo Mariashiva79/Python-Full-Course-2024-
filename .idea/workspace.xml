@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="PyQt5 introduction">
-      <change afterPath="$PROJECT_DIR$/Exercises/DS-DIGII.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/pyqt5_digital_clock.py" afterDir="false" />
+    <list default="true" id="c1f1a83e-9bd1-401a-80da-a21de0f77ffb" name="Changes" comment="PyQt5 Digital Clock">
+      <change afterPath="$PROJECT_DIR$/Exercises/pyqt5_stopwatch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +102,7 @@
     "Python.poymorphism.executor": "Run",
     "Python.property_decorators.executor": "Run",
     "Python.pyqt5_digital_clock.executor": "Run",
+    "Python.pyqt5_stopwatch.executor": "Run",
     "Python.python_calculator.executor": "Run",
     "Python.python_number_guessing_game.executor": "Run",
     "Python.python_temperature_converter.executor": "Run",
@@ -196,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746541787318</updated>
-    </task>
-    <task id="LOCAL-00011" summary="compound interest calculator">
-      <option name="closed" value="true" />
-      <created>1746726367304</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746726367304</updated>
     </task>
     <task id="LOCAL-00012" summary="fix compound interest calculator and create for loops">
       <option name="closed" value="true" />
@@ -589,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750762755991</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="PyQt5 Digital Clock">
+      <option name="closed" value="true" />
+      <created>1750764700372</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1750764700372</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -631,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modules" />
     <MESSAGE value="Scope resolution" />
     <MESSAGE value="if_name==main" />
     <MESSAGE value="banking program" />
@@ -656,7 +655,8 @@
     <MESSAGE value="Alarm clock" />
     <MESSAGE value="Request API Data" />
     <MESSAGE value="PyQt5 introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="PyQt5 introduction" />
+    <MESSAGE value="PyQt5 Digital Clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyQt5 Digital Clock" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
