@@ -1,0 +1,25 @@
+
+QWidget {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: 'Press Start 2P', monospace;
+}
+
+QLabel#emoji_label {
+    font-size: 100px;
+}
+
+QLabel#description_label {
+    font-size: 40px;
+}
+
+QPushButton {
+    background-color: #333;
+    border: 2px solid #555;
+    border-radius: 10px;
+    padding: 10px;
+    color: #eee;
+}
+QPushButton:hover {
+    background-color: #444;
+}
